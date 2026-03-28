@@ -5,7 +5,7 @@ An interactive storytelling website that visualizes the journey of a developer.
 The experience is designed as a scroll-based narrative where users explore different stages of a developer’s life through animations, interactions, and immersive UI.
 
 ##  Live Website
-https://your-vercel-link.vercel.app
+https://developerjourney-pi.vercel.app/
 
 ##  GitHub Repository
 https://github.com/Tanushree-233/developer-journey
